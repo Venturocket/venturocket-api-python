@@ -9,7 +9,7 @@ setup(
     version='1.0.0',
     packages=packages,
     url='https://github.com/Venturocket/venturocket-api-python',
-    license='LICENSE.txt',
+    license='LICENSE',
     author='Joe Linn',
     author_email='',
     description="The official python client library for Venturocket's API",
